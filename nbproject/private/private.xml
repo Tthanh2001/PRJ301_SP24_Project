@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/web/admin/productinsert.jsp</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Controller/Admin/ProductManager.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/web/checkout.jsp</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/User.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/com/vnpay/common/Config.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/DAO/billDAO.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/web/cart.jsp</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/BillDetail.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/DAO/productDAO.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Color.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/DAO/userDAO.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Controller/Home/Checkout.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Controller/Home/Cart.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Size.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Item.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/web/qrcode.jsp</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Product.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Bill.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Controller/Home/Contact.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Entity/Category.java</file>
+            <file>file:/D:/PRJ301_SP24/Project_OnlineShop/src/java/Controller/Home/Product.java</file>
+        </group>
+    </open-files>
+</project-private>
